@@ -10,6 +10,8 @@
 ### Blogs posts
 ### Projects you should look into:
 - [Landing Page](https://github.com/ercumentlacin/landing-page)
+- [Slider](https://github.com/ercumentlacin/slider-grid)
+- [To Do List](https://github.com/ercumentlacin/toDoList)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercumentlacin&layout=compact&hide=html" alt="ercumentlacin" /></p>
