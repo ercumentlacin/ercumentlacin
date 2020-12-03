@@ -9,7 +9,8 @@
 
 ### Blogs posts
 ### Projects you should look into:
-- [Landing Page](https://github.com/ercumentlacin/landing-page)
+- [User Profile](https://github.com/ercumentlacin/landing-page)
+- [Landing Page](https://github.com/ercumentlacin/user-profile)
 - [Slider](https://github.com/ercumentlacin/slider-grid)
 - [To Do List](https://github.com/ercumentlacin/toDoList)
 
