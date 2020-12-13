@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ercüment Laçın</h1>
-<h3 align="center">Hello everyone, I am Ercüment Laçın, I am 25 years old and I am a Frontend Developer.</h3>
+<h3 align="left">Hello everyone, I am Ercüment Laçın, I am 25 years old and I am a Frontend Developer.</h3>
 
 
 <h3>Languages and Tools 🛠 </h3>
