@@ -2,7 +2,7 @@
 <h3 align="center">Hello everyone, I am Ercüment Laçın, I am 25 years old and I am a Frontend Developer.</h3>
 
 <div align="center">
-### Languages and Tools 🛠 
+<h3>Languages and Tools 🛠 </h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
@@ -11,7 +11,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ercumentlacin" alt="ercumentlacin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ercumentlacin" alt="ercumentlacin" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ercumentlacin?tab=repositories](https://github.com/ercumentlacin?tab=repositories)
 
