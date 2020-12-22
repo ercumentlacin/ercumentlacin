@@ -19,6 +19,7 @@
 
 ### Blogs posts
 ### Projects you should look into:
+- [React Card Component](https://github.com/ercumentlacin/react-card-components)
 - [Landing Page](https://github.com/ercumentlacin/landing-page)
 - [User Profile](https://github.com/ercumentlacin/user-profile)
 - [Slider](https://github.com/ercumentlacin/slider-grid)
