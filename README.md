@@ -17,8 +17,9 @@
 
 - 📫 How to reach me **ercumen.lacin@gmail.com**
 
-### Blogs posts
+## Blogs posts
 ### Projects you should look into:
+- [React Tweet Component](https://github.com/ercumentlacin/react-tweet-component)
 - [React Card Component](https://github.com/ercumentlacin/react-card-components)
 - [Landing Page](https://github.com/ercumentlacin/landing-page)
 - [User Profile](https://github.com/ercumentlacin/user-profile)
@@ -38,4 +39,4 @@
 ----
 
 
-Last Edited on: 01.12.20
+Last Edited on: 21.12.2020
