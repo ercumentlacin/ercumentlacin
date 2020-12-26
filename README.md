@@ -19,6 +19,7 @@
 
 ## Blogs posts
 ### Projects you should look into:
+- [React Movie App - Tmdb](https://github.com/ercumentlacin/react-movie-app)
 - [React Tweet Component](https://github.com/ercumentlacin/react-tweet-component)
 - [React Card Component](https://github.com/ercumentlacin/react-card-components)
 - [Landing Page](https://github.com/ercumentlacin/landing-page)
