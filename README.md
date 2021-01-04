@@ -19,6 +19,7 @@
 
 ## Blogs posts
 ### Projects you should look into:
+- [React Pokemon App](https://github.com/ercumentlacin/pokemon-app)
 - [React Movie App - Tmdb](https://github.com/ercumentlacin/react-movie-app)
 - [React Tweet Component](https://github.com/ercumentlacin/react-tweet-component)
 - [React Card Component](https://github.com/ercumentlacin/react-card-components)
@@ -40,4 +41,4 @@
 ----
 
 
-Last Edited on: 21.12.2020
+Last Edited on: 04.01.2021
