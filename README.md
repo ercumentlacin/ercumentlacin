@@ -19,7 +19,7 @@
 
 ## Blogs posts
 ### The Project You Must Check Out!
-- [React TMDB Firebase Router LocalStorage](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage)
+- 🌟 [React TMDB Firebase Router LocalStorage](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage)
 
 ### Projects you should look into:
 - [React Pokemon App](https://github.com/ercumentlacin/pokemon-app)
