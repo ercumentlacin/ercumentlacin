@@ -18,6 +18,9 @@
 - 📫 How to reach me **ercumen.lacin@gmail.com**
 
 ## Blogs posts
+### The Project You Must Check Out!
+- [React TMDB Firebase Router LocalStorage](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage)
+
 ### Projects you should look into:
 - [React Pokemon App](https://github.com/ercumentlacin/pokemon-app)
 - [React Movie App - Tmdb](https://github.com/ercumentlacin/react-movie-app)
@@ -41,4 +44,4 @@
 ----
 
 
-Last Edited on: 04.01.2021
+Last Edited on: 12.01.2021
