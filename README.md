@@ -22,6 +22,8 @@
 - 🌟 [React TMDB Firebase Router LocalStorage](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage)
 
 ### Projects you should look into:
+- [User Authentication with Firebase & React](https://github.com/ercumentlacin/user-authentication-firebase-react)
+- [Node JS User-Authentication](https://github.com/ercumentlacin/User-Authentication)
 - [React Pokemon App](https://github.com/ercumentlacin/pokemon-app)
 - [React Movie App - Tmdb](https://github.com/ercumentlacin/react-movie-app)
 - [React Tweet Component](https://github.com/ercumentlacin/react-tweet-component)
@@ -44,4 +46,4 @@
 ----
 
 
-Last Edited on: 12.01.2021
+Last Edited on: 15.01.2021
