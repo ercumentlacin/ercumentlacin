@@ -18,6 +18,7 @@
 - 🌟 [React TMDB Firebase Router LocalStorage](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage)
 
 ### Projects you should look into:
+- [Social media dashboard with theme switcher](https://github.com/ercumentlacin/Social-media-dashboard-with-theme-switcher)
 - [User Authentication with Firebase & React](https://github.com/ercumentlacin/user-authentication-firebase-react)
 - [Node JS User-Authentication](https://github.com/ercumentlacin/User-Authentication)
 - [React Pokemon App](https://github.com/ercumentlacin/pokemon-app)
@@ -27,7 +28,6 @@
 - [Landing Page](https://github.com/ercumentlacin/landing-page)
 - [User Profile](https://github.com/ercumentlacin/user-profile)
 - [Slider](https://github.com/ercumentlacin/slider-grid)
-- [To Do List](https://github.com/ercumentlacin/toDoList)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercumentlacin&layout=compact&hide=html" alt="ercumentlacin" /></p>
@@ -47,4 +47,4 @@
 ----
 
 
-Last Edited on: 17.01.2021
+Last Edited on: 30.01.2021
