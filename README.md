@@ -18,6 +18,7 @@
 - 🌟 [React TMDB Firebase Router LocalStorage](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage)
 
 ### Projects you should look into:
+- [JavaScript Algorithms](https://github.com/ercumentlacin/JavaScript-Algorithms-)
 - [Social media dashboard with theme switcher](https://github.com/ercumentlacin/Social-media-dashboard-with-theme-switcher)
 - [User Authentication with Firebase & React](https://github.com/ercumentlacin/user-authentication-firebase-react)
 - [Node JS User-Authentication](https://github.com/ercumentlacin/User-Authentication)
@@ -47,4 +48,4 @@
 ----
 
 
-Last Edited on: 30.01.2021
+Last Edited on: 04.02.2021
