@@ -15,9 +15,10 @@
 
 ## Blogs posts
 ### The Project You Must Check Out!
-- 🌟 [React TMDB Firebase Router LocalStorage](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage)
+- 🌟 [React Türkçe Sözlük](https://github.com/ercumentlacin/sozluk-projesi)
 
 ### Projects you should look into:
+- 🌟 [React Türkçe Sözlük](https://github.com/ercumentlacin/sozluk-projesi)
 - [JavaScript Algorithms](https://github.com/ercumentlacin/JavaScript-Algorithms-)
 - [Social media dashboard with theme switcher](https://github.com/ercumentlacin/Social-media-dashboard-with-theme-switcher)
 - [User Authentication with Firebase & React](https://github.com/ercumentlacin/user-authentication-firebase-react)
@@ -48,4 +49,4 @@
 ----
 
 
-Last Edited on: 04.02.2021
+Last Edited on: 27.02.2021
