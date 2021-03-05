@@ -18,6 +18,7 @@
 - 🌟 [React Türkçe Sözlük](https://github.com/ercumentlacin/sozluk-projesi)
 
 ### Projects you should look into:
+- 🌟 [React E-commerce MovieDB](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage-v2)
 - 🌟 [React Türkçe Sözlük](https://github.com/ercumentlacin/sozluk-projesi)
 - [JavaScript Algorithms](https://github.com/ercumentlacin/JavaScript-Algorithms-)
 - [Social media dashboard with theme switcher](https://github.com/ercumentlacin/Social-media-dashboard-with-theme-switcher)
@@ -49,4 +50,4 @@
 ----
 
 
-Last Edited on: 27.02.2021
+Last Edited on: 05.03.2021
