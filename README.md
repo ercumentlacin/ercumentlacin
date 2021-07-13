@@ -16,6 +16,7 @@
 ## Blogs posts
 ### The Project You Must Check Out!
 - 🌟 [React Türkçe Sözlük](https://github.com/ercumentlacin/sozluk-projesi)
+- - 🌟 [cra-template](https://github.com/ercumentlacin/cra-typescript-tailwindcss-eslint-prettier)
 
 ### Projects you should look into:
 - 🌟 [React E-commerce MovieDB](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage-v2)
