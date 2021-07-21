@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ercüment Laçın</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ercumentlacin" alt="ercumentlacin" /> </p> <a href="https://ercumentlacin.medium.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://stackoverflow.com/users/14406819/erc%c3%bcment" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
+<p align="left"> <img height="18" src="https://komarev.com/ghpvc/?username=ercumentlacin" alt="ercumentlacin" /> </p> <a href="https://ercumentlacin.medium.com/" target="blank"><img height="18" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://stackoverflow.com/users/14406819/erc%c3%bcment" target="blank"><img height="18" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a> <a href="https://twitter.com/ercument196" target="blank"><img height="18"
+        src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/ercument-lacin/"> <img height="18"
+    src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+<a href="https://www.hackerrank.com/ercumentlacin"> <img height="18"
+    src="https://img.shields.io/badge/Hackerrank-black?logo=HackerRank&labelColor=black" alt="Hackerrank" /></a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ercumentlacin?tab=repositories](https://github.com/ercumentlacin?tab=repositories)
 
@@ -38,18 +43,6 @@
 </a>
 </p>
 
-### 🤝🏻 Social
-<a href="https://twitter.com/ercument196" target="blank"><img height="18"
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://ercumentlacin.medium.com/" target="blank"><img height="18"
-        src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href=”https://www.linkedin.com/in/erc%C3%BCment-la%C3%A7%C4%B1n-1314361b3/”> <img height="18"
-    src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
-<a href=”https://www.hackerrank.com/ercumentlacin”> <img height="18"
-    src="https://img.shields.io/badge/Hackerrank-black?logo=HackerRank&labelColor=black" alt="Hackerrank" /></a>
-
-
 ----
 
-
-Last Edited on: 17.07.2021
+Last Edited on: 21.07.2021
