@@ -20,6 +20,7 @@
 
 ## Blogs posts
 ### The Project You Must Check Out!
+- 🌟 [Twitter Clone](https://github.com/ercumentlacin/Twitter-Clone)
 - 🌟 [React Türkçe Sözlük](https://github.com/ercumentlacin/sozluk-projesi)
 - 🌟 [cra-template](https://github.com/ercumentlacin/cra-typescript-tailwindcss-eslint-prettier)
 
@@ -45,4 +46,4 @@
 
 ----
 
-Last Edited on: 21.07.2021
+Last Edited on: 23.07.2021
