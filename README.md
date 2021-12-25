@@ -1,49 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ercüment Laçın</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+# 👋 Hello there, I'm Ercüment
 
-<p align="left"> <img height="18" src="https://komarev.com/ghpvc/?username=ercumentlacin" alt="ercumentlacin" /> </p> <a href="https://ercumentlacin.medium.com/" target="blank"><img height="18" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a> <a href="https://stackoverflow.com/users/14406819/erc%c3%bcment" target="blank"><img height="18" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a> <a href="https://twitter.com/ercument196" target="blank"><img height="18"
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/ercument-lacin/"> <img height="18"
-    src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
-<a href="https://www.hackerrank.com/ercumentlacin"> <img height="18"
-    src="https://img.shields.io/badge/Hackerrank-black?logo=HackerRank&labelColor=black" alt="Hackerrank" /></a>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://ercumentlacin.medium.com/)
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14406819/erc%c3%bcment)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ercument-lacin/)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-black?logo=HackerRank&labelColor=black)](https://www.hackerrank.com/ercumentlacin)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ercumentlacin?tab=repositories](https://github.com/ercumentlacin?tab=repositories)
+Here are some details about me and my profile on GitHub:
+
+## My technical skills
+
+JavaScript, TypeScript, HTML, CSS /
+
+React, React Hooks, Next.js, Redux, webpack, parcel, gulp /
+
+Node.js, Express, Mongoose, GraphQL, Apollo /
+
+MongoDB, PostgreSQL /
+
+Git, Github, Gitlab, Bitbucket /
+
+Ant Design, Material-UI, Bootstrap, TailwindCSS /
+
+Firebase, Firestore, Firebase Auth, Firebase Storage, Firebase Cloud Functions /
+
+## Contact me
 
 - 📫 How to reach me **ercument.lacin@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.javascript.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-
-
-
-## Blogs posts
-### The Project You Must Check Out!
-- 🌟 [Twitter Clone](https://github.com/ercumentlacin/Twitter-Clone)
-- 🌟 [React Türkçe Sözlük](https://github.com/ercumentlacin/sozluk-projesi)
-- 🌟 [cra-template](https://github.com/ercumentlacin/cra-typescript-tailwindcss-eslint-prettier)
-
-### Projects you should look into:
-- 🌟 [React E-commerce MovieDB](https://github.com/ercumentlacin/react-tmdb-firebase-router-localstorage-v2)
-- 🌟 [React Türkçe Sözlük](https://github.com/ercumentlacin/sozluk-projesi)
-- [Social media dashboard with theme switcher](https://github.com/ercumentlacin/Social-media-dashboard-with-theme-switcher)
-- [User Authentication with Firebase & React](https://github.com/ercumentlacin/user-authentication-firebase-react)
-- [Node JS User-Authentication](https://github.com/ercumentlacin/User-Authentication)
-- [React Pokemon App](https://github.com/ercumentlacin/pokemon-app)
-- [React Movie App - Tmdb](https://github.com/ercumentlacin/react-movie-app)
-- [React Tweet Component](https://github.com/ercumentlacin/react-tweet-component)
-- [React Card Component](https://github.com/ercumentlacin/react-card-components)
-
 ### 📊 GitHub Analytics
-<p align="center">
-<a href="https://github.com/ercumentlacin">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ercumentlacin&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ercumentlacin"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ercumentlacin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="ercumentlacin"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ercumentlacin&theme=algolia" alt="ercumentlacin" />
-</a>
-</p>
 
-----
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ercumentlacin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia)
+![Stats](https://github-readme-stats.vercel.app/api?username=ercumentlacin&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=ercumentlacin&theme=algolia)
 
-Last Edited on: 23.07.2021
+---
+
+Last Edited on: 25.12.2021
