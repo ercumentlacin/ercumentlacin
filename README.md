@@ -5,6 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ercument-lacin/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-black?logo=HackerRank&labelColor=black)](https://www.hackerrank.com/ercumentlacin)
 
+[![CodeWars](https://www.codewars.com/users/ercumentlacin/badges/large)](https://www.codewars.com/users/ercumentlacin)
+
 Here are some details about me and my profile on GitHub:
 
 ## My technical skills
@@ -35,4 +37,4 @@ Firebase, Firestore, Firebase Auth, Firebase Storage, Firebase Cloud Functions /
 
 ---
 
-Last Edited on: 25.12.2021
+Last Edited on: 24.02.2022
